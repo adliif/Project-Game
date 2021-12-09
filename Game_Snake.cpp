@@ -1,3 +1,10 @@
+/*
+Nama Kelompok :
+ > Adinda Aulia sari
+ > Sinta
+ > Adli Fiqrullah
+*/
+
 #include <iostream>
 #include <cstdlib>		//header yang berisi fungsi umum seperti atematika, search, bubbleshort, konversi, pembanding
 #include <ctime>		//header yang berisi fungsi tipe untuk memanipulasi waktu
