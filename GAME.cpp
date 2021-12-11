@@ -68,7 +68,7 @@ void jendela() {
 
 void input() {
     //Keypad dan kecepatan permainan
-    keypad(stdscr, TRUE);
+    keypad(stdscr, TRUE);  // Keypad merupakan tombol push button yang disusun sebagai baris dan kolom sehingga membentuk matriks
     //untuk mengubah arah
     switch(getch()) {
         case 97:
