@@ -64,7 +64,7 @@ void jendela() {
     //untuk merefresh jendelannya
     refresh();
     return;
-}
+}  // Sinta
 
 void input() {
     //Keypad dan kecepatan permainan
@@ -155,7 +155,8 @@ void ular() {
             break;
         default:
             break;
-    }
+    }		// Adli
+	    
     //Game over jika kena pembatas jendelannya
 	if (x > width || x < 1 || y < 1 || y > height) {
         gameOver = true;
@@ -195,10 +196,14 @@ void ular() {
 
 int main() {
 	char nama[50];	
+	string anggota[3] = {"adinda", "sinta", "adli"};
+	
 	initscr();
+	
 	printw("Masukkan Nama anda : ");
 	getstr(nama);
 	
+	if(nama == anggota[0] || nama == anggota[1] || nama == anggota[2]){
     pengaturan();
     //Looping untuk melanjutkan permainan
     while(!gameOver) {
@@ -206,7 +211,12 @@ int main() {
         input();
         ular();
     }
+	}else {	
+	clear();
+	mvprintw (10,35,"~~~~ Anda Tidak terdaftar sebagai anggota !! ~~~~");
+}
+
     getch();
     endwin();
     return 0;
-}
+}		// Adinda
