@@ -5,10 +5,10 @@ game ini sehingga game ini bisa dikatakan sempurna. Sekian, terima kasih.
 
 Nama Anggota :
 
- > Adinda Aulia Sari
+ > Adinda Aulia Sari     NPM. 2117051018
  
- > Sinta Nurhalifah
+ > Sinta Nurhalifah      NPM. 2117051015
 
- > Adli Fiqrullah
+ > Adli Fiqrullah        NPM. 2117051075
 
 ~~ Happy Ngoding
