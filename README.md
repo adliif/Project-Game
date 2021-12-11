@@ -3,7 +3,7 @@
 seperti internet, kakak tingkat, dll. Mohon kepada teman-teman agar dapat saling membantu dalam pembuatan 
 game ini sehingga game ini bisa dikatakan sempurna. Sekian, terima kasih.
 
-Nama Anggota 5 :
+Nama Anggota Kelompok 5 :
 
  > Adinda Aulia Sari    
    NPM. 2117051018
