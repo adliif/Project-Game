@@ -1,3 +1,10 @@
+/* Kelompok 5 :
+  > Adinda Aulia Sari     (NPM. 2117051018)
+  > Sinta Nurhalifah      (NPM. 2127051015)
+  > Adli Fiqrullah        (NPM. 2117051075)
+*/
+
+
 #include <cstdlib>		//library yang berisi fungsi umum seperti matematika,pencarian,pengurutan,konversi dan pembanding
 #include <ncurses.h>
 #include <iostream>
