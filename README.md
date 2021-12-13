@@ -1,7 +1,7 @@
 # Game Snake
    Game dengan tema ular ini beserta source code yang kami buat didapatkan dari berbagai sumber, 
-seperti internet, kakak tingkat, dll. Mohon kepada teman-teman agar dapat saling membantu dalam pembuatan 
-game ini sehingga game ini bisa dikatakan sempurna. Sekian, terima kasih.
+seperti internet, kakak tingkat, maupun hasil diskusi kami. Bagi teman-teman jika ada kritik ataupun masukan 
+mohon disampaikan, agar game ini bisa lebih baik. Sekian, terima kasih.
 
 Nama Anggota Kelompok 5 :
 
