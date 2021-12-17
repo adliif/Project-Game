@@ -2,6 +2,22 @@
   > Adinda Aulia Sari     (NPM. 2117051018)
   > Sinta Nurhalifah      (NPM. 2127051015)
   > Adli Fiqrullah        (NPM. 2117051075)
+
+
+CATATAN !! :
+  Source code ini dapat dijalankan melalui sistem operasi Linux atau menggunakan Linux online.
+Seperti menggunakan cocalc.com dan replit.com atau bisa menggunakan melalui Dev C++ tetapi harus
+menginstal terlebih dahulu MinGw dan mengaitkan dengan app Dev C++ anda. Untuk compile di Linux online seperti berikut :
+
+g++ ./GAME.cpp ~o tes -lncurces
+
+Setelah itu enter dan compile dengan nama :
+./tes
+
+Kenapa source code ini harus menggunakan Linux ?
+  Karena adanya library ncurses.h yang hanya tersedia di sistem operasi Linux
+
+
 */
 
 
@@ -29,7 +45,7 @@ void pengaturan() {
     //pengaturan layar
     initscr();
     clear();
-    curs_set(0);	 //untuk menyembunyikan cursor
+    curs_set(0);	                 //untuk menyembunyikan cursor
    					 //untuk menetapkan variabel permainan
     gameOver = false;
     arah = STOP;
@@ -76,6 +92,7 @@ void jendela() {
 void input() {
     //Keypad dan kecepatan permainan
     keypad(stdscr, TRUE);  // Keypad merupakan tombol push button yang disusun sebagai baris dan kolom sehingga membentuk matriks
+    
     //untuk mengubah arah
     switch(getch()) {
         case 97:
@@ -203,7 +220,7 @@ void ular() {
 
 int main() {
 	char nama[50];	
-	string anggota[3] = {"adinda", "sinta", "adli"};
+	string anggota[3] = {"adinda", "sinta", "adli"};  // hanya nama tersebut yang bisa memainkan game ini.
 	
 	initscr();
 	
