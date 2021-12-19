@@ -240,7 +240,8 @@ int main() {
 	mvprintw (10,35,"~~~~ Anda Tidak terdaftar sebagai anggota !! ~~~~");
 }
 
-    getch();
-    endwin();
+    getch();  // untuk menahan suatu karakter
+    endwin(); // Mengakhiri program
     return 0;
 }		// Adinda
+// Selesai
