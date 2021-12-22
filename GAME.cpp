@@ -244,4 +244,3 @@ int main() {
     endwin(); // Mengakhiri program
     return 0;
 }		// Adinda
-// Selesai
