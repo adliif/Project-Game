@@ -28,7 +28,7 @@ menginstal terlebih dahulu MinGw dan mengaitkan dengan app Dev C++ anda.
 Kenapa source code ini harus menggunakan Linux ?
 -> Karena adanya library ncurses.h yang hanya tersedia di sistem operasi Linux
 
-*/ -----------------------------------------------------------------------------------------------
+   --------------------------------------------------------------------------------------------- */
 
 
 #include <cstdlib>		//library yang berisi fungsi umum seperti matematika,pencarian,pengurutan,konversi dan pembanding
