@@ -1,4 +1,5 @@
-/* Kelompok 5 :
+/* ------------------------------------------------------------------------------------------------
+Kelompok 5 :
   > Adinda Aulia Sari     (NPM. 2117051018)
   > Sinta Nurhalifah      (NPM. 2127051015)
   > Adli Fiqrullah        (NPM. 2117051075)
@@ -7,18 +8,27 @@
 CATATAN !! :
   Source code ini dapat dijalankan melalui sistem operasi Linux atau menggunakan Linux online.
 Seperti menggunakan cocalc.com dan replit.com atau bisa menggunakan melalui Dev C++ tetapi harus
-menginstal terlebih dahulu MinGw dan mengaitkan dengan app Dev C++ anda. Untuk compile di Linux online seperti berikut :
+menginstal terlebih dahulu MinGw dan mengaitkan dengan app Dev C++ anda.
 
-g++ ./GAME.cpp ~o tes -lncurces
+   <•>
 
-Setelah itu enter dan compile dengan nama :
-./tes
-
+   program Game Snake
+   
+   dibuat oleh kelompok 5
+   menggunakan g++ compiler dan pustaka ncurses
+   
+   program ini diberi nama: GAME.cpp
+   
+   di-compile dengan perintah:
+   g++ GAME.cpp -o buka -l ncurses
+   dijalankan dengan perintah: buka
+ 
+   <\•>
+ 
 Kenapa source code ini harus menggunakan Linux ?
-  Karena adanya library ncurses.h yang hanya tersedia di sistem operasi Linux
+-> Karena adanya library ncurses.h yang hanya tersedia di sistem operasi Linux
 
-
-*/
+*/ -----------------------------------------------------------------------------------------------
 
 
 #include <cstdlib>		//library yang berisi fungsi umum seperti matematika,pencarian,pengurutan,konversi dan pembanding
