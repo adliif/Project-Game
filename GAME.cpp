@@ -11,7 +11,6 @@ Seperti menggunakan cocalc.com dan replit.com atau bisa menggunakan melalui Dev 
 menginstal terlebih dahulu MinGw dan mengaitkan dengan app Dev C++ anda.
 
    <•>
-
    program Game Snake
    
    dibuat oleh kelompok 5
@@ -22,7 +21,6 @@ menginstal terlebih dahulu MinGw dan mengaitkan dengan app Dev C++ anda.
    di-compile dengan perintah:
    g++ GAME.cpp -o buka -l ncurses
    dijalankan dengan perintah: buka
- 
    <\•>
  
 Kenapa source code ini harus menggunakan Linux ?
