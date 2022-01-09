@@ -1,8 +1,8 @@
 /* ------------------------------------------------------------------------------------------------
 Kelompok 5 :
+  > Adli Fiqrullah        (NPM. 2117051075)
   > Adinda Aulia Sari     (NPM. 2117051018)
   > Sinta Nurhalifah      (NPM. 2127051015)
-  > Adli Fiqrullah        (NPM. 2117051075)
 
 
 CATATAN !! :
